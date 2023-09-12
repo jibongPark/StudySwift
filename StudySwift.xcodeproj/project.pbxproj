@@ -14,6 +14,8 @@
 		F2D4881B2AB08818006AF3C6 /* StudySwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2D4881A2AB08818006AF3C6 /* StudySwiftTests.swift */; };
 		F2D488252AB08818006AF3C6 /* StudySwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2D488242AB08818006AF3C6 /* StudySwiftUITests.swift */; };
 		F2D488272AB08818006AF3C6 /* StudySwiftUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2D488262AB08818006AF3C6 /* StudySwiftUITestsLaunchTests.swift */; };
+		F2D488342AB0889E006AF3C6 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2D488332AB0889E006AF3C6 /* CircleImage.swift */; };
+		F2D488392AB08AF6006AF3C6 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2D488382AB08AF6006AF3C6 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		F2D488202AB08818006AF3C6 /* StudySwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StudySwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2D488242AB08818006AF3C6 /* StudySwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudySwiftUITests.swift; sourceTree = "<group>"; };
 		F2D488262AB08818006AF3C6 /* StudySwiftUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudySwiftUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F2D488332AB0889E006AF3C6 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		F2D488382AB08AF6006AF3C6 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +100,8 @@
 			children = (
 				F2D488092AB08817006AF3C6 /* StudySwiftApp.swift */,
 				F2D4880B2AB08817006AF3C6 /* ContentView.swift */,
+				F2D488332AB0889E006AF3C6 /* CircleImage.swift */,
+				F2D488382AB08AF6006AF3C6 /* MapView.swift */,
 				F2D4880D2AB08818006AF3C6 /* Assets.xcassets */,
 				F2D4880F2AB08818006AF3C6 /* Preview Content */,
 			);
@@ -259,6 +265,8 @@
 			files = (
 				F2D4880C2AB08817006AF3C6 /* ContentView.swift in Sources */,
 				F2D4880A2AB08817006AF3C6 /* StudySwiftApp.swift in Sources */,
+				F2D488392AB08AF6006AF3C6 /* MapView.swift in Sources */,
+				F2D488342AB0889E006AF3C6 /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
